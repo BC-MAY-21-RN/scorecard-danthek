@@ -7,16 +7,16 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
+  name: Jesus Delgado # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: abraham8507@gmail.com
+  phone: 3121287429
   website: # No agregar http://
   linkedin: brightcoders
-  github: brightcoders
+  github: https://github.com/danthek
   gitlab:
   bitbucket:
   twitter: '@BrightCoders'
@@ -33,10 +33,23 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: German
-      level: Colloquial
+      level: B2
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
+  
+    - item: Empathy
+      link: # dejar en blanco
+      
+    - item: Approachability and Helpfulness
+      link: # dejar en blanco
+      
+    - item: Negotiation
+      link: # dejar en blanco
+      
+    - item: Customer Service
+      link: # dejar en blanco
+     
     - item: Communication
       link: # dejar en blanco
 
@@ -45,72 +58,44 @@ sidebar:
 
     - item: Time Management
       link: # dejar en blanco
+      
+    - item: Emotional intelligence
+      link: # dejar en blanco
+      
+      
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I am an enthusiast of front end development, I have stood out for being a morally integral person and my professional career has been spent occupying administrative positions,
+    people management and sales and customer service positions.  I am an industrial engineer with a specialization in programming and web development. 
+    I have decided to turn my professional career 180 degrees and focus on front end development.
+    My English skill is at an advanced level and also speak German at an intermediate level. 
+    My goal is to contribute with my skills in an company and continue learning and strengthening my knowledge.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
+  - degree: Industrial engineer 
+    university: UTEL Universiad Latinoamericana
+    time: 2015 Sept - 2018 Jul
+    details: Industrial engineer degree with specialization in web desing and development (last eight months of the degree).
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
-
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
-
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-
-        - Deep learning
-        - Hand Gesture
-
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
-    details: |
-      Master degree in Computer Engineering
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Enterprises Senior Executive
+    time: 2013 - 2019
+    company: Santander Bank, Colima México
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+    Proficient with customer relationship management and sales conversions
 
   - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+    time: 2012 - 2013
+    company: Micronegocio Azteca, Colima México
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+     Emplacement of financial products over the target, salesmen teams leadership.
+     *18 employees in charge and monthly/annual goal planning
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -122,23 +107,22 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: Python
-      level: 20%
-
-    - name: PyTorch
-      level: 40%
-
-    - name: Tensorflow
+    - name: HTML
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: CSS
+      level: 60%
 
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: Java Script
       level: 40%
+
+    - name: React JS
+      level: 20%
+
+    - name: React Native
+      level: 20%
+
+    
 
 # NO MODIFICAR
 footer: >
