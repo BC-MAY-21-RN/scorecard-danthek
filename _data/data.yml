@@ -15,14 +15,14 @@ sidebar:
   email: abraham8507@gmail.com
   phone: 3121287429
   website: # No agregar http://
-  linkedin: brightcoders
+  linkedin: https://www.linkedin.com/in/jesus-abraham-delgado-orozco
   github: https://github.com/danthek
-  gitlab:
-  bitbucket:
-  twitter: '@BrightCoders'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
+  #gitlab:
+  #bitbucket:
+  #twitter: '@BrightCoders'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
