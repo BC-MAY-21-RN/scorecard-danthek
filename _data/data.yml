@@ -7,22 +7,22 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Jesus Delgado # Nombre completo
+  name: Jesus Abraham Delgado Orozco # Nombre completo
   tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
   email: abraham8507@gmail.com
   phone: 3121287429
-  website: # No agregar http://
+  website: 
   linkedin: https://www.linkedin.com/in/jesus-abraham-delgado-orozco
   github: https://github.com/danthek
-  #gitlab:
-  #bitbucket:
-  #twitter: '@BrightCoders'
-  #stack-overflow: # Number/Username, e.g. 123456/alandoe
-  #codewars:
-  #goodreads: # Number-Username, e.g. 123456-alandoe
+  gitlab: 
+  bitbucket:
+  twitter: 
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
@@ -33,42 +33,33 @@ sidebar:
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: German
-      level: B2
-
-  # Registra aquí tus soft skills. Agrega o elimina según sea necesario
+      level: Colloquial
+# Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
-  
     - item: Empathy
+      link: # dejar en blanco
+
+    - item: Communication skills
+      link: # dejar en blanco
+
+    - item: Teamwork
       link: # dejar en blanco
       
     - item: Approachability and Helpfulness
       link: # dejar en blanco
       
-    - item: Negotiation
+    - item: Responsibility in decision making
       link: # dejar en blanco
       
     - item: Customer Service
       link: # dejar en blanco
-     
-    - item: Communication
-      link: # dejar en blanco
 
-    - item: Team Work
-      link: # dejar en blanco
-
-    - item: Time Management
-      link: # dejar en blanco
-      
-    - item: Emotional intelligence
-      link: # dejar en blanco
-      
-      
 
 # Registra aquí un resumen de tu perfil
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    I am an enthusiast of front end development, I have stood out for being a morally integral person and my professional career has been spent occupying administrative positions,
+   I am an enthusiast of front end development, I have stood out for being a morally integral person and my professional career has been spent occupying administrative positions,
     people management and sales and customer service positions.  I am an industrial engineer with a specialization in programming and web development. 
     I have decided to turn my professional career 180 degrees and focus on front end development.
     My English skill is at an advanced level and also speak German at an intermediate level. 
@@ -78,23 +69,25 @@ career-profile:
 educationcomplete:
   - degree: Industrial engineer 
     university: UTEL Universiad Latinoamericana
-    time: 2015 Sept - 2018 Jul
-    details: Industrial engineer degree with specialization in web desing and development (last eight months of the degree).
-
-
+    time:  2015 Sept - 2018 Jul 
+    details:  Industrial engineer degree with specialization in web desing and development (last eight months of the degree).
+     
+        
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
   - role: Enterprises Senior Executive
     time: 2013 - 2019
     company: Santander Bank, Colima México
-    details: Proficient with customer relationship management and sales conversions
-
-  - role: Senior Software Engineer
+    details: |
+    Proficient with customer relationship management and sales conversions
+  - role: Branch Manager
     time: 2012 - 2013
     company: Micronegocio Azteca, Colima México
-    details: Emplacement of financial products over the target, salesmen teams leadership.
+    details: |
+      Emplacement of financial products over the target, salesmen teams leadership.
      *18 employees in charge and monthly/annual goal planning
 
+      
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
 # 40% para Advanced beginner
@@ -105,22 +98,21 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
-    - name: HTML
-      level: 60%
-
-    - name: CSS
-      level: 60%
-
-    - name: Java Script
+    - name: JavaScript
       level: 40%
 
     - name: React JS
       level: 20%
-
+      
     - name: React Native
       level: 20%
 
-    
+    - name: Css
+      level: 60%
+
+    - name: HTML
+      level: 60%
+
 
 # NO MODIFICAR
 footer: >
