@@ -59,11 +59,7 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-  I am an enthusiast of front end development, I have stood out for being a morally integral person and my professional career has been spent occupying administrative positions,
-  people management and sales and customer service positions.  I am an industrial engineer with a specialization in programming and web development. 
-  I have decided to turn my professional career 180 degrees and focus on front end development.
-  My English skill is at an advanced level and also speak German at an intermediate level. 
-  My goal is to contribute with my skills in an company and continue learning and strengthening my knowledge.
+  I am an enthusiast of front end development, I have stood out for being a morally integral person and my professional career has been spent occupying administrative positions, people management and sales and customer service positions.  I am an industrial engineer with a specialization in programming and web development. I have decided to turn my professional career 180 degrees and focus on front end development. My English skill is at an advanced level and also speak German at an intermediate level.  My goal is to contribute with my skills in an company and continue learning and strengthening my knowledge.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
@@ -84,8 +80,7 @@ experiences:
     time: 2012 - 2013
     company: Micronegocio Azteca, Colima México
     details: |
-    Emplacement of financial products over the target, salesmen teams leadership.
-    18 employees in charge and monthly/annual goal planning
+    Emplacement of financial products over the target, salesmen teams leadership. 18 employees in charge and monthly/annual goal planning
 
       
 # Registra aquí tus habilidades técnicas, para level utiliza:
